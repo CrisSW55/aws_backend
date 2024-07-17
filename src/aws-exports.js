@@ -6,7 +6,7 @@ const config =  {
           endpoint: 'https://h3ttwpei4zf2lmmrdrdgsaxfxq.appsync-api.us-west-1.amazonaws.com/graphql',
           region: 'us-west-1',
           defaultAuthMode: 'apiKey',
-          apiKey: 'iam users have apiKey'
+          apiKey: 'key that gives developers access to their APIs'
         }
     }
 };
